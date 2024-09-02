@@ -5,8 +5,7 @@
 - 📫 How to reach me syedrizwanghani@gmail.com
 - 😄 Ask me about HTML,CSS,JavaScript,Bootstrap.
 - ⚡ Fun fact: I love too play with code,
--                 
-- 
+  
 
 <!---
 Syedrizwan23/Syedrizwan23 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
