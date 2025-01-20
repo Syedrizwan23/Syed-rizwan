@@ -1,12 +1,13 @@
-### 👋 Hi, I’m Syed Rizwan  
+# 👋 Hi, I’m Syed Rizwan  
 👀 I’m a passionate learner and web developer from Pakistan.  
 
 ## 🌱 My specialties include:  
 
 ### Frontend Development:  
-- React.js  
+- React js  
 - HTML  
-- CSS  
+- CSS
+- Javascript
 - Tailwind CSS  
 - Bootstrap  
 
@@ -22,7 +23,7 @@
 - **LinkedIn**: [Syed Rizwan Ghani](https://www.linkedin.com/in/syed-rizwan-ghani/)  
 
 😄 **Ask me about**:  
-HTML, CSS, JavaScript, Bootstrap, and Tailwind CSS  
+HTML, CSS, JavaScript, React js, Next js, Bootstrap, and Tailwind CSS  
 
 ⚡ **Fun fact**:  
 I love experimenting with code and building creative web solutions!  
