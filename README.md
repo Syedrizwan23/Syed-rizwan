@@ -1,10 +1,34 @@
-- 👋 Hi, I’m Syed Rizwan
-- 👀 Learner and Web Developer from Pakistan
-- 🌱 I’m currently learning React.js,.Net,Css,js,Bootstrap.
-- 💞️ I’m looking for a job opportunities where I contribute my skills in React.js,javascript and web development
-- 📫 How to reach me syedrizwanghani@gmail.com
-- 😄 Ask me about HTML,CSS,JavaScript,Bootstrap.
-- ⚡ Fun fact: I love too play with code,
+### 👋 Hi, I’m Syed Rizwan  
+👀 I’m a passionate learner and web developer from Pakistan.  
+
+## 🌱 My specialties include:  
+
+### Frontend Development:  
+- React.js  
+- HTML  
+- CSS  
+- Tailwind CSS  
+- Bootstrap  
+
+#### Core Skills:  
+- JavaScript  
+- Responsive design  
+- Modern web practices  
+
+💼 I’m actively seeking job opportunities where I can contribute my skills and grow as a web developer.  
+
+📫 **How to reach me:**  
+- **Email**: [syedrizwanghani@gmail.com](mailto:syedrizwanghani@gmail.com)  
+- **LinkedIn**: [Syed Rizwan Ghani](https://www.linkedin.com/in/syed-rizwan-ghani/)  
+
+😄 **Ask me about**:  
+HTML, CSS, JavaScript, Bootstrap, and Tailwind CSS  
+
+⚡ **Fun fact**:  
+I love experimenting with code and building creative web solutions!  
+
+
+
   
 
 <!---
